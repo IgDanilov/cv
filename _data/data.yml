@@ -117,6 +117,7 @@ certifications:
             - Gained expertise in AWS infrastructure management.
             - Learned recommended practices for Terraform.
             - Studied Kubernetes architecture, cluster deployment, and configuration.
+
           
         - name: Python for Beginners Course
           start: Jan 2023
@@ -128,6 +129,7 @@ certifications:
           details: |
             - Refreshed knowledge on Python basics and core concepts of network programming.
             - Familiarized with fundamental unit testing practices.
+
 
         - name: Microsoft Azure Administrator
           start: Mar 2023
