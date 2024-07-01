@@ -110,7 +110,7 @@ certifications:
           end: Jan 2024
           organization: TMS
           credentialid: 
-          credentialurl: https://teachmeskills.by/
+          credentialurl: teachmeskills.by
           credentialname: Teachmeskills
           details: |
             - Expanded knowledge in DevOps practices and methodologies.
@@ -122,11 +122,25 @@ certifications:
           start: Jan 2023
           end: Mar 2023
           organization: IBA
+          credentialid: 
+          credentialurl: instituteiba.by
+          credentialname: Institute of IT & Business Administration
           details: |
             - Refreshed knowledge on Python basics and core concepts of network programming.
             - Familiarized with fundamental unit testing practices.
 
-      
-
+        - name: Microsoft Azure Administrator
+          start: Mar 2023
+          organization: IBA
+          credentialid: AZ-104T00-A
+          credentialurl: instituteiba.by
+          credentialname: Institute of IT & Business Administration
+          details: |
+            - Acquired skills in managing Azure subscriptions, securing identities,
+            administering infrastructure, configuring virtual networking, connecting
+            Azure and on-premises sites, managing network traffic, implementing storage
+            solutions, creating and scaling virtual machines, implementing web apps
+            and containers, backing up and sharing data, and monitoring solutions.
+    
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
