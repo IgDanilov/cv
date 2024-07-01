@@ -105,27 +105,27 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: DevOps Engineer Course
+          start: Apr 2023
+          end: Jan 2024
+          organization: TMS
+          credentialid: 
+          credentialurl: https://teachmeskills.by/
+          credentialname: Teachmeskills
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
+            - Expanded knowledge in DevOps practices and methodologies.
+            - Gained expertise in AWS infrastructure management.
+            - Learned recommended practices for Terraform.
+            - Studied Kubernetes architecture, cluster deployment, and configuration.
           
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+        - name: Python for Beginners Course
+          start: Jan 2023
+          end: Mar 2023
+          organization: IBA
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
+            - Refreshed knowledge on Python basics and core concepts of network programming.
+            - Familiarized with fundamental unit testing practices.
+
       
 
 footer: >
