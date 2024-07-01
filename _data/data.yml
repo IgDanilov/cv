@@ -131,7 +131,7 @@ certifications:
 
         - name: Microsoft Azure Administrator
           start: Mar 2023
-          organization: IBA
+          organization: Microsoft
           credentialid: AZ-104T00-A
           credentialurl: instituteiba.by
           credentialname: Institute of IT & Business Administration
