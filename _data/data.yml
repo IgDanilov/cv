@@ -127,9 +127,9 @@ experiences:
             - Server services: AD DS, RDS, GP, WSUS, RemoteApp, IIS, VPN, Backup System, Firewall pfSense, Exchange 2013.
             - Network and hardware management: local network design, RAID arrays, network storage, BIOS/firmware updates, office equipment.
       
-      - role: System Administrator Level 2
-        time: Jan 2012 - Sep 2013
-        company: LLC "Network Administrator"
+      - role: System Administrator
+        time: Sen 2013 - Jan 2016
+        company: LLC "Baurama"
         details: | 
              **Technologies stack:**
             - IT maintenance for over 100 companies, supporting 1500 PCs and 200 servers.
