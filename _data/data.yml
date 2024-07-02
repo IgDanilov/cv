@@ -126,6 +126,7 @@ experiences:
             - Software: MS Office 2003-2013, Office 365, OpenOffice, LibreOffice, Adobe, Corel, AutoCAD; document management (1C).
             - Server services: AD DS, RDS, GP, WSUS, RemoteApp, IIS, VPN, Backup System, Firewall pfSense, Exchange 2013.
             - Network and hardware management: local network design, RAID arrays, network storage, BIOS/firmware updates, office equipment.
+       
         - role: System Administrator (L2)
         time: Jan 2012 - Sep 2013
         company: LLC "Network Administrator"
@@ -137,6 +138,7 @@ experiences:
             - Remote administration using tools like Ammyy Admin, DameWare, UltraVNC, RDP, TeamViewer, Zabbix, Putty, and others.
             - Installation and administration of operating systems: Windows 98-8, Windows Server 2003-2008R2 (ADDS, DNS, WINS, DHCP, DFS, GPO, VPN, FTP, IIS (HTTP, HTTPS), RDP, TS, WSUS, and other roles/services).
             - Service Desk management with Itilium platform.
+            
 certifications:
       title: Certifications
       list:
