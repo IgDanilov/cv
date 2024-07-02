@@ -99,7 +99,44 @@ experiences:
             - Department expansion, implementation of AD (LDAP authorization),
             deployment of Zabbix, OCS, OTRS, server virtualization on ESXi, 
             development of access restriction and backup solutions, office relocation preparation.
-
+        
+        - role: Technical support engineer
+        time: Apr 2016 - Aug 2017
+        company: LLC "City Computer Company"
+        details: | 
+            **Technologies stack:**
+            -  Installation, configuration, and administration of server systems: Windows Server 2003-2012 (AD, DNS, GPO, DHCP), Windows XP-10.
+            -  Virtualization environments: VmWare, MS Hyper-V.
+            -  Technical support for employees: consulting, installation, and configuration of user and server software.
+            -  Software and hardware diagnostics for PCs and server equipment, identifying and resolving issues.
+        
+        - role: System Administrator
+        time: Sen 2013 - Jan 2016
+        company: LLC "Baurama"
+        details: | 
+           **What I’ve done in this position:**
+            - Migrated servers to a new data center using VMware vCenter; configured Windows Server 2012 services (AD DS, RDS, WSUS, RemoteApp, IIS, VPN, Backup System, Exchange 2013).
+            - Deployed video surveillance and IP telephony systems (Asterisk); implemented office access control systems.
+            - Installed and administered Windows XP-10, Windows Server 2003-2012 R2; supported specialized software (Sberbank Business Online, CryptoPro, Garant, AutoCAD).
+            - Designed and installed local networks; configured and maintained office equipment (printers, scanners, MFPs, UPS).
+            - Provided employee training and consultations; managed hardware procurement, diagnostics, repairs, data encryption, backup, and recovery.
+            **Technologies stack:**
+            - Virtualization and cloud technologies: VMware vSphere, Microsoft Hyper-V, VirtualBox.
+            - Security: Kaspersky, Symantec; data encryption (TrueCrypt, CryptoARM, ECP); access control policies.
+            - Software: MS Office 2003-2013, Office 365, OpenOffice, LibreOffice, Adobe, Corel, AutoCAD; document management (1C).
+            - Server services: AD DS, RDS, GP, WSUS, RemoteApp, IIS, VPN, Backup System, Firewall pfSense, Exchange 2013.
+            - Network and hardware management: local network design, RAID arrays, network storage, BIOS/firmware updates, office equipment.
+        - role: System Administrator (L2)
+        time: Jan 2012 - Sep 2013
+        company: LLC "Network Administrator"
+        details: | 
+             **Technologies stack:**
+            - IT maintenance for over 100 companies, supporting 1500 PCs and 200 servers.
+            - Participation in projects for implementing new IT services and conducting IT audits.
+            - Virtualization and cloud technologies: VMware, Microsoft Hyper-V, Xen, VirtualBox, KVM.
+            - Remote administration using tools like Ammyy Admin, DameWare, UltraVNC, RDP, TeamViewer, Zabbix, Putty, and others.
+            - Installation and administration of operating systems: Windows 98-8, Windows Server 2003-2008R2 (ADDS, DNS, WINS, DHCP, DFS, GPO, VPN, FTP, IIS (HTTP, HTTPS), RDP, TS, WSUS, and other roles/services).
+            - Service Desk management with Itilium platform.
 certifications:
       title: Certifications
       list:
