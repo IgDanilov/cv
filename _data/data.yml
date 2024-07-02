@@ -127,17 +127,17 @@ experiences:
             - Server services: AD DS, RDS, GP, WSUS, RemoteApp, IIS, VPN, Backup System, Firewall pfSense, Exchange 2013.
             - Network and hardware management: local network design, RAID arrays, network storage, BIOS/firmware updates, office equipment.
       
-      - role: System Administrator
-        time: Sen 2013 - Jan 2016
-        company: LLC "Baurama"
-        details: | 
-             **Technologies stack:**
-            - IT maintenance for over 100 companies, supporting 1500 PCs and 200 servers.
-            - Participation in projects for implementing new IT services and conducting IT audits.
-            - Virtualization and cloud technologies: VMware, Microsoft Hyper-V, Xen, VirtualBox, KVM.
-            - Remote administration using tools like Ammyy Admin, DameWare, UltraVNC, RDP, TeamViewer, Zabbix, Putty, and others.
-            - Installation and administration of operating systems: Windows 98-8, Windows Server 2003-2008R2 (ADDS, DNS, WINS, DHCP, DFS, GPO, VPN, FTP, IIS (HTTP, HTTPS), RDP, TS, WSUS, and other roles/services).
-            - Service Desk management with Itilium platform.
+      # - role: System Administrator 
+      #   time: Sen 2013 - Jan 2016
+      #   company: LLC "Baurama"
+      #   details: | 
+      #        **Technologies stack:**
+      #       - IT maintenance for over 100 companies, supporting 1500 PCs and 200 servers.
+      #       - Participation in projects for implementing new IT services and conducting IT audits.
+      #       - Virtualization and cloud technologies: VMware, Microsoft Hyper-V, Xen, VirtualBox, KVM.
+      #       - Remote administration using tools like Ammyy Admin, DameWare, UltraVNC, RDP, TeamViewer, Zabbix, Putty, and others.
+      #       - Installation and administration of operating systems: Windows 98-8, Windows Server 2003-2008R2 (ADDS, DNS, WINS, DHCP, DFS, GPO, VPN, FTP, IIS (HTTP, HTTPS), RDP, TS, WSUS, and other roles/services).
+      #       - Service Desk management with Itilium platform.
             
 certifications:
       title: Certifications
