@@ -28,7 +28,7 @@ sidebar:
         - idiom: Russian 
           level: Native
 
-    interests:
+    # interests:
       title: Interests
       info:
         - item: Сycling
