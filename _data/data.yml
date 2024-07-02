@@ -28,18 +28,6 @@ sidebar:
         - idiom: Russian 
           level: Native
 
-    # interests:
-      title: Interests
-      info:
-        - item: Сycling
-          link:
-
-        - item: Swimming
-          link:
-
-        - item: Music
-          link:
-
 career-profile:
     title: Career Profile
     summary: |
