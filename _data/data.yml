@@ -88,7 +88,7 @@ experiences:
             - Web Servers and Services: Apache, Nginx, IIS
             - Scripting and Programming Languages: Bash, PowerShell, Python
             
-      - role: System Administrator
+        - role: System Administrator
         time: Nov 2017 - Apr 2018
         company: Investment company Strategist
         details: | 
