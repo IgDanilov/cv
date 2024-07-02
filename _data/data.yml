@@ -14,11 +14,11 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: erionu@gmail.com
-    timezone: Further-Eastern European Time
+    email: igor.danilov@outlook.com
+    location: Belarus, Minsk
     linkedin: igordanilov
-    github: IgDanilov
- 
+    # github: IgDanilov
+     
     languages:
       title: Languages
       info:
