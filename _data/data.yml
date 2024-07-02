@@ -49,7 +49,7 @@ education:
 experiences:
     title: Experiences
     info:
-        - role: Senior System Administrator
+      - role: Senior System Administrator
         time: Apr 2018 - Apr 2024
         company: Viber
         details: | 
@@ -88,7 +88,7 @@ experiences:
             - Web Servers and Services: Apache, Nginx, IIS
             - Scripting and Programming Languages: Bash, PowerShell, Python
             
-        - role: System Administrator
+      - role: System Administrator
         time: Nov 2017 - Apr 2018
         company: Investment company Strategist
         details: | 
@@ -110,7 +110,7 @@ experiences:
             -  Technical support for employees: consulting, installation, and configuration of user and server software.
             -  Software and hardware diagnostics for PCs and server equipment, identifying and resolving issues.
         
-        - role: System Administrator
+      - role: System Administrator
         time: Sen 2013 - Jan 2016
         company: LLC "Baurama"
         details: | 
@@ -127,7 +127,7 @@ experiences:
             - Server services: AD DS, RDS, GP, WSUS, RemoteApp, IIS, VPN, Backup System, Firewall pfSense, Exchange 2013.
             - Network and hardware management: local network design, RAID arrays, network storage, BIOS/firmware updates, office equipment.
        
-        - role: System Administrator (L2)
+      - role: System Administrator (L2)
         time: Jan 2012 - Sep 2013
         company: LLC "Network Administrator"
         details: | 
