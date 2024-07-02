@@ -87,6 +87,18 @@ experiences:
             - Database Management: MySQL, PostgreSQL, Microsoft SQL Server
             - Web Servers and Services: Apache, Nginx, IIS
             - Scripting and Programming Languages: Bash, PowerShell, Python
+            
+      - role: System Administrator
+        time: Nov 2017 - Apr 2018
+        company: Investment company Strategist
+        details: | 
+            **What I’ve done in this position:**
+            - Technical support for employees, installation and configuration of software, 
+            organization of new workstations, equipment procurement, monitoring access
+            control and video surveillance, collaboration on new LAN projects.
+            - Department expansion, implementation of AD (LDAP authorization),
+            deployment of Zabbix, OCS, OTRS, server virtualization on ESXi, 
+            development of access restriction and backup solutions, office relocation preparation.
 
 certifications:
       title: Certifications
