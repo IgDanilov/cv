@@ -100,7 +100,7 @@ experiences:
             deployment of Zabbix, OCS, OTRS, server virtualization on ESXi, 
             development of access restriction and backup solutions, office relocation preparation.
         
-        - role: Technical support engineer
+      - role: Technical support engineer
         time: Apr 2016 - Aug 2017
         company: LLC "City Computer Company"
         details: | 
