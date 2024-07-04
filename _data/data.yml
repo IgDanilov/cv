@@ -58,7 +58,7 @@ experiences:
             - Office relocation with minimal downtime and business risk.
             - Implementation and support of ACS (BioSmart), CCTV system (Hikvision), time tracking system (Synel), local SIP (FreePBX)
             - Monitoring and alerting with Zabbix
-            - Configuration of Wi-Fi authentication through AD
+            - Migrated all local services and employees' PCs to a new site within the current domain using Active Directory Domain Services (AD DS). Configuration of Wi-Fi authentication through AD
             - Organization of remote work for the Minsk office (VPN with traffic segmentation), enabling effective remote work during the pandemic.
             - Deployment of IPv6 
             - Integration of Jamf and development of policies and rules for the Minsk office
